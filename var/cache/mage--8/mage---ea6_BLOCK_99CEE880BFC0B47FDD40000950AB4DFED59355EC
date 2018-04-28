@@ -1,0 +1,6 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1524824825;s:6:"expire";i:1524828425;s:4:"tags";s:58:"ea6_BLOCK_HTML,ea6_CAT_C,ea6_CAT_C_6,ea6_CAT_C_10,ea6_MAGE";}
+
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 first active level-top parent"><a href="http://localhost/magento2/index.php/mobile.html"  class="level-top" ><span>mobile</span></a><ul class="level0 submenu"><li  class="level1 nav-1-1 first"><a href="http://localhost/magento2/index.php/mobile/microsoft.html" ><span>microsoft</span></a></li><li  class="level1 nav-1-2 last"><a href="http://localhost/magento2/index.php/mobile/apple.html" ><span>apple</span></a></li></ul></li><li  class="level0 nav-2 last level-top parent"><a href="http://localhost/magento2/index.php/laptop.html"  class="level-top" ><span>laptop</span></a><ul class="level0 submenu"><li  class="level1 nav-2-1 first last"><a href="http://localhost/magento2/index.php/laptop/hp.html" ><span>hp</span></a></li></ul></li>            </ul>
+</nav>
